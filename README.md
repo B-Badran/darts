@@ -2,6 +2,7 @@
 # example  notebook about estimating pi with darts
 
 Some description
+
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
